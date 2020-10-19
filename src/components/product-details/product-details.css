@@ -1,0 +1,39 @@
+.product-details {
+    margin-top: 50px;
+}
+
+.product-details .card-body p {
+    margin-bottom: 5px;
+}
+
+.product-details .card-footer button {
+    border: 1px solid #6E6E6E;
+    color: #6E6E6E;
+    transition: all .25s;
+}
+
+.product-details .card-footer button:focus {
+    outline-style: none;
+}
+
+.product-details .card-footer button:hover {
+    border-color: #66AF27;
+    background-color: #66AF27;
+    color: white;
+}
+
+@media (max-width: 576px) {
+    .product-details .card-footer button {
+        border-color: #66AF27;
+        background-color: #66AF27;
+        color: white;
+    }
+}
+
+@media (min-width: 576px) and  (max-width: 767px) {
+    .product-details .card-footer button {
+        border-color: #66AF27;
+        background-color: #66AF27;
+        color: white;
+    }
+}

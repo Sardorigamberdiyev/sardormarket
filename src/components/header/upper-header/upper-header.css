@@ -1,0 +1,85 @@
+.upper-header {
+    padding: 8px 0;
+    background-color: white;
+    border-bottom: 1px solid lightgray;
+}
+
+.upper-header .container .row .col-md-5 ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.upper-header .container .row .col-md-5 ul li a {
+    font-size: 15px;
+    font-weight: 500;
+    color: #6E6E6E;
+    text-decoration: none;
+    transition: all .25s;
+}
+
+.upper-header .container .row .col-md-5 ul li a:hover {
+    color: #66AF27;
+}
+
+.upper-header .container .row .col-md-3 .row .col-md-9 {
+    display: flex;
+    align-items: center;
+}
+
+.upper-header .container .row .col-md-3 .row .col-md-9 i {
+    font-size: 18px;
+    margin-right: 6px;
+    color: #6E6E6E;
+}
+
+.upper-header .container .row .col-md-3 .row .col-md-9 span {
+    color: #6E6E6E;
+}
+
+.upper-header .container .row .col-md-3 .select {
+    position: relative;
+}
+
+.upper-header .container .row .col-md-3 .select select {
+    border: none;
+    appearance: none;
+    cursor: pointer;
+    color: #6E6E6E;
+    font-size: 14px;
+}
+
+.upper-header .container .row .col-md-3 .select select:focus {
+    outline-style: none;
+}
+
+.upper-header .container .row .col-md-3 .select:after {
+    content: '';
+    border: 4px solid;
+    border-color: #6E6E6E transparent transparent;
+    pointer-events: none;
+    position: absolute;
+    top: 45%;
+    right: -5px;
+}
+
+
+@media (max-width: 576px) {
+    .upper-header {
+        display: none;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .upper-header {
+        display: none;
+    }
+}
+
+@media (min-width: 767px) and (max-width: 992px) {
+    .upper-header {
+        display: none;
+    }
+}

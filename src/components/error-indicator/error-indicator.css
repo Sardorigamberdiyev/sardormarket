@@ -1,0 +1,9 @@
+
+.error-indicator {
+    width: 100%;
+    text-align: center;
+}
+
+.error-indicator h3 {
+    color: darkred;
+}

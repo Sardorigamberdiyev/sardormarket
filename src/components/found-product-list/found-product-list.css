@@ -1,0 +1,33 @@
+.found-product-list {
+    width: 90%;
+    max-height: 351px;
+    overflow-y: scroll;
+    background-color: white;
+    list-style: none;
+    padding-left: 0;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    position: absolute;
+    left: 5%;
+    z-index: 999;
+}
+
+.found-product-list.hide-scroll {
+    overflow-y: unset;
+}
+
+.found-product-list.hide-found-search {
+    display: none;
+}
+
+.found-product-list ::-webkit-scrollbar {
+    width: 6px;
+}
+
+.found-product-list ::-webkit-scrollbar-track {
+    background-color: whitesmoke;
+}
+
+.found-product-list ::-webkit-scrollbar-thumb {
+    background-color: #7FAD39;
+    border-radius: 10px;
+}

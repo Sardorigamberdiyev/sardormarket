@@ -1,0 +1,38 @@
+.lower-footer {
+    background-color: #445268;
+}
+
+.lower-footer .container hr {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.lower-footer .container .row {
+    align-items: center;
+    justify-content: center;
+}
+
+.lower-footer .container .row span {
+    padding: 10px 0;
+    color: white;
+}
+
+
+@media (max-width: 576px) {
+    .lower-footer {
+        display: none;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .lower-footer {
+        display: none;
+    }
+}
+
+
+@media (min-width: 767px) and (max-width: 992px){
+    .lower-footer {
+        display: none;
+    }
+}

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3115737c-ff29-4d3a-a2d9-e2a91af45662" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dGusf1aXG3dZdbGJrOtG1dOkRq" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\myProject\myproject\public\images\various" />
+      <recent name="E:\myProject\myproject\public\images\img fruits" />
+      <recent name="E:\myProject\myproject\public\images" />
+      <recent name="E:\myProject\ogani\public\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\myProject\ogani\public\images\flags" />
+      <recent name="E:\myProject\ogani\public\images" />
+      <recent name="E:\myProject\ogani\src\components\responsive" />
+      <recent name="E:\myProject\ogani\src\components\pages" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3115737c-ff29-4d3a-a2d9-e2a91af45662" name="Default Changelist" comment="" />
+      <created>1592063959051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592063959051</updated>
+      <workItem from="1592063961328" duration="84807000" />
+      <workItem from="1592469645975" duration="92148000" />
+      <workItem from="1592928203118" duration="23008000" />
+      <workItem from="1593147205286" duration="612000" />
+      <workItem from="1593167099261" duration="609000" />
+      <workItem from="1593194758644" duration="5090000" />
+      <workItem from="1593256518353" duration="1032000" />
+      <workItem from="1594201054831" duration="41734000" />
+      <workItem from="1594570870509" duration="29598000" />
+      <workItem from="1595958649832" duration="912000" />
+      <workItem from="1595998985913" duration="4612000" />
+      <workItem from="1596042589638" duration="2410000" />
+      <workItem from="1596533047391" duration="1722000" />
+      <workItem from="1596687022521" duration="1111000" />
+      <workItem from="1597035099905" duration="9276000" />
+      <workItem from="1597088427175" duration="616000" />
+      <workItem from="1597566195493" duration="10580000" />
+      <workItem from="1597671697765" duration="628000" />
+      <workItem from="1597736631754" duration="11105000" />
+      <workItem from="1597839172522" duration="61513000" />
+      <workItem from="1598282966461" duration="12344000" />
+      <workItem from="1599234991097" duration="3325000" />
+      <workItem from="1599303296591" duration="638000" />
+      <workItem from="1599403663041" duration="1797000" />
+      <workItem from="1599468355819" duration="12911000" />
+      <workItem from="1599674036477" duration="1498000" />
+      <workItem from="1599900977253" duration="9532000" />
+      <workItem from="1600011423538" duration="3656000" />
+      <workItem from="1600232856835" duration="485000" />
+      <workItem from="1600236932430" duration="35846000" />
+      <workItem from="1600943339427" duration="5539000" />
+      <workItem from="1601029623857" duration="3768000" />
+      <workItem from="1601550248014" duration="3008000" />
+      <workItem from="1601700769663" duration="2356000" />
+      <workItem from="1601794081224" duration="3346000" />
+      <workItem from="1601803590309" duration="2447000" />
+      <workItem from="1601818191968" duration="936000" />
+      <workItem from="1601820679781" duration="141000" />
+      <workItem from="1601826963353" duration="786000" />
+      <workItem from="1602054848777" duration="50000" />
+      <workItem from="1602694651980" duration="2135000" />
+      <workItem from="1602747536401" duration="654000" />
+      <workItem from="1602873256392" duration="77515000" />
+      <workItem from="1603104607624" duration="1268000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

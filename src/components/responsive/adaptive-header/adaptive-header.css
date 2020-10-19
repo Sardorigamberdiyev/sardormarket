@@ -1,0 +1,42 @@
+.adaptive-header {
+    padding: 5px 0;
+    background-color: #66AF27;
+    z-index: 999;
+    position: fixed;
+    top: 0;
+}
+
+.adaptive-header .container .row {
+    align-items: center;
+}
+
+.adaptive-header .strips {
+    padding: 4px;
+}
+
+.adaptive-header .strips .strip-item {
+    width: 20px;
+    height: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+
+.adaptive-header .strips .strip-item:not(:nth-child(1)) {
+    margin-top: 3px;
+}
+
+.adaptive-header .container .row .col-8 input {
+    color: #6E6E6E;
+}
+
+.adaptive-header .container .row .col-8 input:focus {
+    box-shadow: none;
+}
+
+
+@media (min-width: 992px) {
+    .adaptive-header {
+        display: none;
+    }
+}

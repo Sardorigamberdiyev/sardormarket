@@ -1,0 +1,6 @@
+.menu {
+    background-color: white;
+    z-index: 111;
+    position: absolute;
+    top: 70px;
+}

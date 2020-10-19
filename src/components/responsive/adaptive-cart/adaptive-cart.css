@@ -1,0 +1,125 @@
+
+.adaptive-cart,
+.ac-be {
+    min-height: 400px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.ac-be {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ac-be div {
+    display: flex;
+    flex-direction: column;
+}
+
+.adaptive-cart h3,
+.ac-be div h5 {
+    color: #6E6E6E;
+}
+
+.ac-be div i {
+    color: #6E6E6E;
+    font-size: 96px;
+    text-align: center;
+}
+
+.adaptive-cart .row .col-12 {
+    padding: 20px;
+    margin-top: 10px;
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    display: flex;
+}
+
+.adaptive-cart .row .col-12 h4 {
+    color: #6E6E6E;
+}
+
+.adaptive-cart .row .col-12 img {
+    width: 100px;
+}
+
+.adaptive-cart .row .col-12 > div:nth-child(2) {
+    margin-left: 15px;
+}
+
+.adaptive-cart .row .col-12 > div:nth-child(2) div {
+    margin-top: 10px;
+}
+
+.adaptive-cart .price {
+    font-weight: 500;
+    color: #6E6E6E;
+}
+
+.total span:nth-child(1) {
+    font-weight: 700;
+    color: #66AF27;
+}
+
+.total span:nth-child(2) {
+    margin-left: 5px;
+    font-weight: 600;
+    color: #95a1ad;
+}
+
+.adaptive-cart .row .col-12 > div:nth-child(2) div:nth-child(4) button {
+    border-radius: 50%;
+}
+
+.adaptive-cart .row .col-12 > div:nth-child(2) div:nth-child(4) button:focus {
+    box-shadow: none;
+}
+
+.adaptive-cart .row .col-12 > div:nth-child(2) div:nth-child(4) button:nth-child(1) {
+    color: red;
+}
+
+.adaptive-cart .row .col-12 > div:nth-child(2) div:nth-child(4) button:nth-child(3) {
+    color: #66AF27;
+}
+
+.adaptive-cart .row .col-12 > div:nth-child(2) div:nth-child(4) span {
+    padding: 5px;
+    font-size: 12px;
+}
+
+.checkout {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.checkout button {
+    background-color: #66AF27;
+    color: white;
+}
+
+.checkout button:hover {
+    color: white;
+}
+
+.checkout button span {
+    padding: 3px 6px;
+    background-color: #458725;
+    border-radius: 5px;
+    font-size: 12px;
+    margin-left: 5px;
+    color: white;
+}
+
+
+@media (min-width: 992px) {
+    .adaptive-cart {
+        display: none;
+    }
+
+    .ac-be {
+        display: none;
+    }
+}

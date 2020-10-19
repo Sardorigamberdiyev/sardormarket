@@ -1,0 +1,87 @@
+
+.shopping-cart-table,
+.sc-te {
+    min-height: 300px;
+    background-color: white;
+    padding: 20px 40px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+
+.shopping-cart-table h2 {
+    color: #6E6E6E;
+    text-align: center;
+}
+
+
+.shopping-cart-table .table {
+    margin-top: 20px;
+}
+
+.shopping-cart-table .table thead tr th {
+    text-align: center;
+    color: #6E6E6E;
+    border-bottom: 0;
+}
+
+.shopping-cart-table > button {
+    display: block;
+    margin-left: auto;
+    background-color: #66AF27;
+    border-color: #66AF27;
+    color: white;
+    box-shadow: none;
+}
+
+.shopping-cart-table > button:hover {
+    background-color: #498722;
+    color: white;
+}
+
+.shopping-cart-table > button:focus {
+    box-shadow: none;
+}
+
+.sc-te {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sc-te div {
+    display: flex;
+    flex-direction: column;
+}
+
+.sc-te div h3 {
+    color: #6E6E6E;
+}
+
+.sc-te div i {
+    font-size: 128px;
+    color: #6E6E6E;
+    text-align: center;
+}
+
+
+
+@media (max-width: 576px) {
+    .shopping-cart-table,
+    .sc-te {
+        display: none;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767px){
+    .shopping-cart-table,
+    .sc-te {
+        display: none;
+    }
+}
+
+@media (min-width: 767px) and (max-width: 992px) {
+    .shopping-cart-table,
+    .sc-te {
+        display: none;
+    }
+}

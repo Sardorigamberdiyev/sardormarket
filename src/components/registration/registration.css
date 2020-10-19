@@ -1,0 +1,59 @@
+
+.registration .container {
+    padding: 20px;
+    margin: 40px auto;
+    background-color: white;
+}
+
+.registration .container h3,
+.registration .container .row > div label {
+    color: #6E6E6E;
+}
+
+@media (max-width: 576px) {
+
+    .registration {
+        margin-bottom: 80px;
+    }
+
+    .registration .container h3 {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .registration .container .row > div div {
+        margin-bottom: 0;
+    }
+}
+
+@media (min-width: 577px) and (max-width: 767px) {
+
+    .registration {
+        margin-bottom: 80px;
+    }
+
+    .registration .container h3 {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .registration .container .row > div div {
+        margin-bottom: 0;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 992px){
+
+    .registration {
+        margin-bottom: 80px;
+    }
+
+    .registration .container h3 {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .registration .container .row > div div {
+        margin-bottom: 0;
+    }
+}
