@@ -34,7 +34,7 @@ class AdaptiveNav extends Component {
                         swipeShow(!isShow);
                         categoryProducts("")
                     }}>
-                        <img src="/images/my logo.png" alt="logo" />
+                        <img src="images/my logo.png" alt="logo" />
                     </Link>
                     <ul className="swipe-right-body">
                         <li>

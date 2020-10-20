@@ -68,7 +68,7 @@ class MiddleHeader extends Component {
                     <div className="row">
                         <div className="col-md-3 pl-0">
                             <Link to="/" onClick={() => categoryProducts("")}>
-                                <img src="/images/my logo.png" alt="logo" />
+                                <img src="images/my logo.png" alt="logo" />
                             </Link>
                             <div className="menu-btn">
                                 <span className="strip" />
