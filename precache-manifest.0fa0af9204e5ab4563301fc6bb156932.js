@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e9cfd97230c03ec80da73e12f52125e4",
+    "revision": "0123592e879a07811747eca1eb16d0db",
     "url": "/sardormarket/index.html"
   },
   {
-    "revision": "1d9b82e2d07b03ff32d9",
+    "revision": "4af45e7dd8db4d0e980b",
     "url": "/sardormarket/static/css/main.ceebb911.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sardormarket/static/js/2.36754238.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1d9b82e2d07b03ff32d9",
-    "url": "/sardormarket/static/js/main.246bdcb7.chunk.js"
+    "revision": "4af45e7dd8db4d0e980b",
+    "url": "/sardormarket/static/js/main.e89f591a.chunk.js"
   },
   {
     "revision": "dd8ea3c6d995f7152aff",
