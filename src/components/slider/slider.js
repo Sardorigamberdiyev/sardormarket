@@ -135,16 +135,16 @@ class Slider extends Component {
                 <div className="carousel" style={{justifyContent: this.state.justifyContent}}>
                     <div className="slider-image" style={style} onTransitionEnd={() => this.sliderImage()}>
                         <section>
-                            <img src="/images/img fruits/eda_fruktyi.jpg" alt="image1" />
+                            <img src="https://sardorigamberdiyev.github.io/sardormarket/images/img fruits/eda_fruktyi.jpg" alt="image1" />
                         </section>
                         <section>
-                            <img src="/images/img fruits/eda-fruktyi-4.jpg" alt="image2" />
+                            <img src="https://sardorigamberdiyev.github.io/sardormarket/images/img fruits/eda-fruktyi-4.jpg" alt="image2" />
                         </section>
                         <section>
-                            <img src="/images/img fruits/eda_fruktyi.jpg" alt="image3" />
+                            <img src="https://sardorigamberdiyev.github.io/sardormarket/images/img fruits/eda_fruktyi.jpg" alt="image3" />
                         </section>
                         <section>
-                            <img src="/images/img fruits/eda-fruktyi-4.jpg" alt="image4" />
+                            <img src="https://sardorigamberdiyev.github.io/sardormarket/images/img fruits/eda-fruktyi-4.jpg" alt="image4" />
                         </section>
                     </div>
                     <div className="controls">
