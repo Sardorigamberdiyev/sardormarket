@@ -74,8 +74,8 @@ class HomePage extends Component {
                                 <Slider />
                             </div>
                             <div className="col-md-4">
-                                <img src="images/various/react.png" alt="react" />
-                                <img src="images/various/redux.png" alt="redux" />
+                                <img src="https://sardorigamberdiyev.github.io/sardormarket/images/various/react.png" alt="react" />
+                                <img src="https://sardorigamberdiyev.github.io/sardormarket/images/various/redux.png" alt="redux" />
                             </div>
                         </div>
                         <div className="row">
