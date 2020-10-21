@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sardormarket/static/css/main.ceebb911.chunk.css",
-    "main.js": "/sardormarket/static/js/main.b350cdd5.chunk.js",
-    "main.js.map": "/sardormarket/static/js/main.b350cdd5.chunk.js.map",
+    "main.js": "/sardormarket/static/js/main.f070a431.chunk.js",
+    "main.js.map": "/sardormarket/static/js/main.f070a431.chunk.js.map",
     "runtime-main.js": "/sardormarket/static/js/runtime-main.c4a1b35f.js",
     "runtime-main.js.map": "/sardormarket/static/js/runtime-main.c4a1b35f.js.map",
     "static/js/2.36754238.chunk.js": "/sardormarket/static/js/2.36754238.chunk.js",
     "static/js/2.36754238.chunk.js.map": "/sardormarket/static/js/2.36754238.chunk.js.map",
     "index.html": "/sardormarket/index.html",
-    "precache-manifest.189738fdc94ecce3704c93a1b30cb08c.js": "/sardormarket/precache-manifest.189738fdc94ecce3704c93a1b30cb08c.js",
+    "precache-manifest.e347bca0493745734f511045d9018579.js": "/sardormarket/precache-manifest.e347bca0493745734f511045d9018579.js",
     "service-worker.js": "/sardormarket/service-worker.js",
     "static/css/main.ceebb911.chunk.css.map": "/sardormarket/static/css/main.ceebb911.chunk.css.map",
     "static/js/2.36754238.chunk.js.LICENSE.txt": "/sardormarket/static/js/2.36754238.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c4a1b35f.js",
     "static/js/2.36754238.chunk.js",
     "static/css/main.ceebb911.chunk.css",
-    "static/js/main.b350cdd5.chunk.js"
+    "static/js/main.f070a431.chunk.js"
   ]
 }
