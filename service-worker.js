@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sardormarket/precache-manifest.bc78be302bc2d42cfb95322f9667d0f2.js"
+  "/sardormarket/precache-manifest.4ea07d58e03d6398707f99584efbfd75.js"
 );
 
 self.addEventListener('message', (event) => {
