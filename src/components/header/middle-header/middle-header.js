@@ -67,7 +67,7 @@ class MiddleHeader extends Component {
                 <div className="container">
                     <div className="row">
                         <div className="col-md-3 pl-0">
-                            <Link to="/" onClick={() => categoryProducts("")}>
+                            <Link to="/sardormarket/" onClick={() => categoryProducts("")}>
                                 <img src="https://sardorigamberdiyev.github.io/sardormarket/images/my logo.png" alt="logo" />
                             </Link>
                             <div className="menu-btn">

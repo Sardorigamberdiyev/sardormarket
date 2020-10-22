@@ -28,7 +28,7 @@ class AdaptiveNav extends Component {
             <div className="adaptive-nav">
                 <div className={layer} onClick={() => swipeShow(!isShow)} />
                 <div className={isSwipeShow}>
-                    <Link to="/"
+                    <Link to="/sardormarket/"
                           className="swipe-right-header"
                           onClick={() => {
                         swipeShow(!isShow);
